@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sous-Vide Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_device_state">SoVi Agent Control Panel</string>
+    <string name="device_list_label">Available devices:</string>
+    <string name="waiting_for_devices_msg">Searching for available devices\nPlease wait...</string>
+    <string name="attaching_to_device_msg">Attaching to device...</string>
+    <string name="controller_in_action_label" >Controller in action...</string>
+    <string name="service_name">SoViControllerService</string>
+</resources>
